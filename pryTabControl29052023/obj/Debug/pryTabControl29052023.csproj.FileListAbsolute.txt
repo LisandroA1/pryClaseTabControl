@@ -1,0 +1,12 @@
+C:\Users\Alumno\source\repos\pryTabControl29052023\bin\Debug\pryTabControl29052023.exe.config
+C:\Users\Alumno\source\repos\pryTabControl29052023\bin\Debug\pryTabControl29052023.exe
+C:\Users\Alumno\source\repos\pryTabControl29052023\bin\Debug\pryTabControl29052023.pdb
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.Form1.resources
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.exe
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.pdb
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.Form2.resources
+C:\Users\Alumno\source\repos\pryTabControl29052023\obj\Debug\pryTabControl29052023.frmBarraDeProgreso.resources
